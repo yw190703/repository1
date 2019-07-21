@@ -15,7 +15,15 @@ update  1
 
 dev分支修改文件  1
 
+master制造了冲突1
+
+master冲突2
+
+master修改并同步
+
 
 master制造了冲突1
 
 dev直接修改并同步
+
+
